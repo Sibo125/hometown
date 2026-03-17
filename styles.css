@@ -82,7 +82,7 @@ h2{
     justify-content: space-evenly;
     text-align: center;
     background-image: url("images/sibo_choppy_yellow.png");
-    background: center;
+    background-size: contain;
     color: #fff;
     border-bottom: 6px solid #E63946;
     border-left: 6px solid #E63946;
@@ -105,15 +105,12 @@ h2{
     font-size: 40px;
     color: aqua;
     margin-right: 10px;
-    background-image: url("images/sibo_choppy_yellow.png");
-    background: cover; 
 }
     /* #E63946 */
 
 #about{
     font-style: italic;  
     color: lightgray;
-    backgroud-color: #E63946;
     padding: 20px;
     border-radius: 10px;
 }
