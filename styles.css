@@ -8,7 +8,7 @@ DARK BLUE: #1D3557
 
 */
 
-body {
+body{
     margin: 0;
     text-align: center;
 }
@@ -36,7 +36,6 @@ h2{
     padding-bottom: 700px;
     padding-top: 100px; 
     text-shadow: 0 0 2px black;
-
 }
 
 #tobago{
@@ -46,10 +45,9 @@ h2{
     text-shadow: 0 3px 2px aqua;
     border: yellow;
         font-family: "Matemasie", sans-serif;
-
 }
 
-.activities {
+.activities{
     display: flex;
     justify-content: space-around;
     padding: 20px;
@@ -70,12 +68,10 @@ h2{
     font-family: "Matemasie", sans-serif;
     text-decoration: overline aqua;
     color: #c20609;
-
 }
 .img-activity{
         border: 4px dashed #E63946;
         border-radius: 20px;
-
 }
 
 .guide{
@@ -91,9 +87,7 @@ h2{
     border-left: 6px solid #E63946;
     border-radius: 10px;
     text-shadow: 0px 1px #c20609;
-    font-family: "Asap Condensed", sans-serif;
-
-    
+    font-family: "Asap Condensed", sans-serif;   
 }
 
 #avatar{
@@ -121,7 +115,7 @@ h2{
     font-style: italic;
     color: #c60209;
 }
-img {
+img{
     width: 300px;
     height: fit-content;
 }
@@ -135,14 +129,14 @@ img {
     background-image: url("images/doubles.jpg");
 }
 
-#img-activity-exotic: hover{
+#img-activity-exotic:hover{
     background-image: url("images/exotic.gif");
 }
 
-#img-activity-beach: hover{
+#img-activity-beach:hover{
     background-image: url("images/TOBAGO.gif");
 }
 
-#img-activity-culture: hover{
+#img-activity-culture:hover{
     background-image: url("images/SilkTree.gif");
 }
