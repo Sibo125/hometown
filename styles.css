@@ -104,21 +104,26 @@ h2{
     font-size: 40px;
     color: aqua;
     margin-right: 10px;
-
 }
+    /* #E63946 */
+
 #about{
     font-style: italic;  
-     color: lightgray;
-
+    color: lightgray;
+    backgroud-color: gray;
+    padding: 20px;
+    border-radius: 10px;
 }
 #linkedin{
     font-style: italic;
     color: #c60209;
 }
+
 img{
     width: 300px;
     height: fit-content;
 }
+
 /* Edit the images in the activity section and then add hover feature with gifs created in Canva:  */
 
 #img-activity-beach{
