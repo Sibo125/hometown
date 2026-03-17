@@ -29,13 +29,14 @@ h2{
 .hero{
     background-color: lightgray; 
     background-image: url("images/background-trans.jpg");
-    background: 50;
+    background: cover;
     margin: 0px;
     font-family: "Matemasie", sans-serif;
     color: #c60209;
-    padding-bottom: 1000px;
+    padding-bottom: 500px;
     padding-top: 100px; 
     text-shadow: 0 0 2px black;
+    text-align: center;
 }
 
 #tobago{
@@ -75,8 +76,8 @@ h2{
 }
 
 .guide{
-    margin: 150px auto 1px;
-    padding: 500px;
+    margin: 40px auto 1px;
+    padding: 200px;
     display: flex;
     justify-content: space-evenly;
     text-align: center;
