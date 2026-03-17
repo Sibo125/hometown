@@ -106,6 +106,7 @@ h2{
     color: aqua;
     margin-right: 10px;
     background-image: url("images/sibo_choppy_yellow.png");
+    background: fit-content; 
 }
     /* #E63946 */
 
