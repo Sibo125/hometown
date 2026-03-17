@@ -94,7 +94,7 @@ h2{
 #avatar{
     margin: 20px auto;
     max-width: 400px;
-    height: 150px;
+    height: 500px;
     border: 6px solid yellow;
     border-radius: 20px;
     background-image: url("images/sibo_choppy_red.png");
@@ -106,14 +106,14 @@ h2{
     color: aqua;
     margin-right: 10px;
     background-image: url("images/sibo_choppy_yellow.png");
-    background: fit-content; 
+    background: cover; 
 }
     /* #E63946 */
 
 #about{
     font-style: italic;  
     color: lightgray;
-    backgroud-color: gray;
+    backgroud-color: #E63946;
     padding: 20px;
     border-radius: 10px;
 }
